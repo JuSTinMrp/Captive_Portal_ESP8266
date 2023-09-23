@@ -1,7 +1,6 @@
 # Captive Portal
 
-   ## About this project
-   ### WiFi captive portal for the NodeMCU (ESP8266/ESP32 Module) with DNS spoofing.
+   ### WiFi captive portal using DNS spoofing. Its works fine with nodemcu (ESP8266 & ESP32)
   - A login page will appear when someone connects to this "JioNet@St_Joseph_Inst"(Its passwd free).
   - The username and passwd entered my the user in login page gets collected in `/creds`.
   - The built-in LED will blink 3 times after the login process is completed by someone.<b>

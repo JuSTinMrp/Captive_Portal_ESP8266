@@ -11,7 +11,7 @@
 ```
 <b>Note: You can see the creds in <a>"**172.0.0.1**<a>/creds</a>"
 
-# Installation `windows``linux``mac`
+# Installation `windows` `linux` `mac`
 
 1. Open your <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a> and go to "File -> Preferences -> Boards Manager URLs" and paste the following link:
 ``http://arduino.esp8266.com/stable/package_esp8266com_index.json``

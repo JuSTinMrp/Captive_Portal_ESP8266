@@ -7,7 +7,7 @@
   - The built-in LED will blink 3 times after the login process is completed by someone.<b>
 
 ```diff
-! Warning! Saved passwords will disappear when you restart/power off the ESP8266(Nodemcu) 
+! Stored Usernames and Password gets deleted when you power off/on the device!!!
 ```
 <b>Note: You can see the creds in <a>"**172.0.0.1**<a>/creds</a>"
 

